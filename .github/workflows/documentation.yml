@@ -5,7 +5,7 @@ on:
     branches: [documentation]
   push:
     branches: [documentation]
-    workflow_dispatch:  # Action タブから任意に実行できるようにする
+  workflow_dispatch:  # Action タブから任意に実行できるようにする
 
 jobs:
   checks:
