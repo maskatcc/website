@@ -12,6 +12,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'maskatcc', // Usually your GitHub org/user name.
   projectName: 'website', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'My Site',
