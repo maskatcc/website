@@ -6,12 +6,12 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://maskatcc.github.io',
-  baseUrl: '/docusaurus/',
+  baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'maskatcc', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'website', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
